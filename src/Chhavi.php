@@ -22,7 +22,9 @@ class Chhavi
     * @return string
     */
     public static function url($url, $array){
-        if(!is_array($array))
+        if(!is_array($array)){
+            
+        }
 
     }
 
