@@ -1,0 +1,19 @@
+{
+    "name": "clutech/chhavi",
+    "description": "Chhavi url converter",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CluGrid",
+            "email": "amit@clugrid.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Clutech\\Chhavi\\": "src/"
+        }
+    },
+}
